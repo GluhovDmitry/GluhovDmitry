@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dima Gluhov
 - 🐍 I’m interested in Python and backend
 - 🚀 I’m currently learning software design
-- ⚠️ Fun fact: I love Legacy code...
+- ⚠️ Fun fact: Love your legacy 
 - 📧 How to reach me: glukhov.dmitryy@gmail.com
 
 <!--
